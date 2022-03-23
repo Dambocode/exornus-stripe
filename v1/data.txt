@@ -1,0 +1,7 @@
+{
+    "test@gmail.com": [
+        {
+            "proxies": "['proxy1\\n', 'proxy2\\n', 'proxy3\\n', 'proxy4\\n', 'proxy5\\n', 'proxy6\\n', 'proxy7\\n']"
+        }
+    ]
+}

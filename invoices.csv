@@ -1,0 +1,9 @@
+Email,CustomerID,Type,Quantity,InvoiceID,InvoiceURL,DiscordID
+joshswebber@gmail.com,cus_ICMj2sPaYW7K6H,ISP,25,in_1HbxzaJBtaKem9eNnKsxTA9x,https://invoice.stripe.com/i/acct_1DFpgWJBtaKem9eN/invst_ICMj2wOgKIeIlGAbbX5ttWPHup4t2Hy,jweb#0178
+yanguangliang@yahoo.com,cus_ICMjElVA7ivri6,ISP,100,in_1HbxzcJBtaKem9eN1XDfQAVk,https://invoice.stripe.com/i/acct_1DFpgWJBtaKem9eN/invst_ICMjtHPrrGjzWZyQslCfiuTDmFVdL0n,YanGuangLiang#5585
+p.shan2371@yahoo.com,cus_ICMji3sWuwNzVm,ISP,25,in_1HbxzeJBtaKem9eNyDpQLrpu,https://invoice.stripe.com/i/acct_1DFpgWJBtaKem9eN/invst_ICMjbRz4RYpsbUARhZoMxzXw3RyrBny,$han#0002
+xxslick@yahoo.com,cus_ICMj3Val2qc1bA,ISP,50,in_1HbxzgJBtaKem9eNNQqwRu5u,https://invoice.stripe.com/i/acct_1DFpgWJBtaKem9eN/invst_ICMjp1bPjO4dK6lSRTLVcBAPWPZiU7Q,Slick#0001
+jacobrroux@gmail.com,cus_ICMj9oKmYNIvK4,ISP,25,in_1HbxzjJBtaKem9eN1g1NW30d,https://invoice.stripe.com/i/acct_1DFpgWJBtaKem9eN/invst_ICMjEYWPw1GtV3KJ3jECwAPhYvlxLON,LogicallyBacon#0305
+huntermftracy@gmail.com,cus_ICMjSTlouWgX7N,ISP,25,in_1HbxzkJBtaKem9eNoJV6vsKv,https://invoice.stripe.com/i/acct_1DFpgWJBtaKem9eN/invst_ICMjNW7mKHWI8sOkXq0qpECezFpnFrR,Rhino#4861
+memberships@swooshconfirmed.com,cus_ICfkethDovqTC8,ISP,1,in_1HcGPQJBtaKem9eNk7S5Eb4R,https://invoice.stripe.com/i/acct_1DFpgWJBtaKem9eN/invst_ICfkIcea7xuV4rCZpCTSD8sf6L674lv,546720159298093056
+test@emailworlds413123.com,cus_ID3sq4aZf4qgAG,ISP,1,in_1HcdkZJBtaKem9eNFeH1SNwd,https://invoice.stripe.com/i/acct_1DFpgWJBtaKem9eN/invst_ID3skJPsrgfboo69bRkKd71tZ8Ebo8p,test

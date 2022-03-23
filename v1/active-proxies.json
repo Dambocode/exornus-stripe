@@ -1,0 +1,10 @@
+{
+    "proxy_assignments": [
+        {
+            "example@gmail.com": "proxy 1 goes here, proxy 2 goes here..."
+        },
+        {
+            "testagain@gmail.com": "['proxy1\\n', 'proxy2\\n', 'proxy3\\n', 'proxy4\\n', 'proxy5\\n', 'proxy6\\n', 'proxy7\\n']"
+        }
+    ]
+}
