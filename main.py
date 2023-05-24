@@ -99,7 +99,7 @@ with open('orders.csv', 'r') as read_obj:
             append_list_as_row()
             # def invoiceDiscordLog():
             #     productDiscordName = (f'{qty} Monthly {product_type} Data Center Proxies')
-            #     hook = Webhook('https://discord.com/api/webhooks/753749892006150234/hfQrL9HNMgCnoXMdjm31plzjlaQmk00wvlDoV4EvFjuHe7Q_kUU8gNGyZ--RsOxqrybA')
+            #     hook = Webhook('')
 
             #     embed = Embed(
             #         title='**New Invoice Created** :white_check_mark:',
