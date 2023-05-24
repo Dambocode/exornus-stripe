@@ -8,10 +8,10 @@ import os
 
 # ENV FILES
 
-api_key = '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'
+api_key = ''
 webhook_url = os.getenv("DISCORD_WEBHOOK_PAID")
 # Stripe API Key
-stripe.api_key = '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'
+stripe.api_key = ''
 
 with open('invoices.csv', 'r') as read_obj:
     csv_reader = reader(read_obj)
