@@ -12,9 +12,9 @@ from dotenv import load_dotenv
 # product_type_aio = os.getenv("AIO_PRICE_ID")
 # invoice_webhook_url = os.getenv("DISCORD_WEBHOOK_INVOICE")
 
-# Stripe Key
-stripe.api_key = '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'
-api_key = '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'
+# Stripe Key - THESE ARE NO LONGER ACTIVE FOR ANYONE TRYING TO USE THEM
+stripe.api_key = ''
+api_key = ''
 # skip first line i.e. read header first and then iterate over each row od csv as a list
 with open('orders.csv', 'r') as read_obj:
     csv_reader = reader(read_obj)
